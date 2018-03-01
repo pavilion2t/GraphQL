@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.container {
+  height: 100vh;
+  display: flex;
+}
+.g {
+  height: 100vh;
+}
